@@ -1,7 +1,9 @@
 # AriasViewer
- ### In this respository can be found the code for the app, as well as the simulated data files to try on the app. The app can be found [here]( https://leyresastre.shinyapps.io/AriasViewer/). This app has been created as a tool for visualization of musical proportions. In order for the app to work, it is necessary the upload of three data files. In this repository, three simulated data files can be found, so anyone can use the app. It is important that the uploaded files have the same structure as these files. 
+ In this respository can be found the code for the app, as well as the simulated data files to try on the app. The app can be found [here]( https://leyresastre.shinyapps.io/AriasViewer/). This app has been created as a tool for visualization of musical proportions. In order for the app to work, it is necessary the upload of three data files. In this repository, three simulated data files can be found, so anyone can use the app. It is important that the uploaded files have the same structure as these files. 
  
-### The app has various sections: 
+ As mentioned, this app allows for interactive exploration of musical data. Users can display several type of graphs of different variables, and custom how they want to visualize this data. The creation of this app has allowed researchers to evaluate certain research questions of eighteenth-century musical pieces.
+ 
+The app has various sections: 
 - Variable section includes a description of the variables, a customizable data table, and some graphics of the variables (marginal graphs, two/three variables graphs, and regression graphs). 
 - Temporal evolution section includes three different graphs in order to explore the temporal evolution of the data. This visulization, if wanted, can be subject to certain factors. 
 
